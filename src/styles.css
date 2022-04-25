@@ -1,0 +1,12 @@
+.registerform{
+  color: red;
+  display: flex;
+  flex-direction: column;
+  
+ 
+}
+.content{
+display: flex;
+align-items: center;
+width: auto;
+}
