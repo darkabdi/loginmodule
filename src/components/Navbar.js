@@ -4,7 +4,17 @@ import Register from './Register'
 
 function Navbar() {
   return (
-   <div className='navbar'></div>
+   <div className='navbar'>
+     <ul>
+       <li>
+         <a href="./Login">Sign in</a>
+       </li>
+       <li>
+       <a href="./Register">Sign up</a>
+       </li>
+     </ul>
+   </div>
+   
    
   )
 }

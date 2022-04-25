@@ -4,9 +4,10 @@ function login() {
 
     
     return (
-        <form>
+        <form className='loginform' >
         <input placeholder="Username" ></input>
         <input placeholder="password" ></input>
+        <button>Sign in</button>
        
 
     </form>

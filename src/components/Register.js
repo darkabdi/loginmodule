@@ -10,7 +10,7 @@ function register() {
             <input placeholder="Username" ></input>
             <input placeholder="password" ></input>
             <input placeholder="confirm password" ></input>
-
+            <button>Sign up</button>
         </form>
     )
 }
